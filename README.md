@@ -9,32 +9,33 @@
 💪 正在学习: 
 
 &emsp;&emsp;
-![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
-![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
-![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/-Python-pink?logo=Python)
+![Docker](https://img.shields.io/badge/-Docker-FCC624?logo=docker)
+![Shell Script](https://img.shields.io/badge/Shell-%4285F4.svg?logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
+![JavaScript](https://img.shields.io/badge/-Html5-green?logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-orange?logo=css3)
 
 🧠 计划学习:
 
 &emsp;&emsp;
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![Rust](https://img.shields.io/badge/Rust-%23276DC3.svg?style=flat-square&logo=rust&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=style=flat-square&logo=Qt&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c)
+![Rust](https://img.shields.io/badge/Rust-%23276DC3.svg?logo=rust&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?logo=Qt&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?logo=jquery&logoColor=white)
 
 
 🧰 常用的工具:
 
 &emsp;&emsp; 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![MacOs](https://img.shields.io/badge/MacOS-0078D7?style=flat-square&logo=macos&logoColor=white)
-![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
-![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+![MacOs](https://img.shields.io/badge/MacOS-0078D7?logo=macos&logoColor=white)
+![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?logo=GoogleChrome&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-FCC624?logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-pink?logo=github)
 
 ## 📈Statistics
 
