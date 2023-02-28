@@ -5,6 +5,7 @@
 
 - Nickname: Chrrr1y
 - Hometown: Tai'an, Shandong Province in China
+- Live: Ri'zhao Shandong Province in China
 
 💪 正在学习: 
 
@@ -13,7 +14,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-FCC624?logo=docker)
 ![Shell Script](https://img.shields.io/badge/Shell-%4285F4.svg?logo=gnu-bash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
-![JavaScript](https://img.shields.io/badge/-Html5-green?logo=html5)
+![Html5](https://img.shields.io/badge/-Html5-green?logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-orange?logo=css3)
 
 🧠 计划学习:
