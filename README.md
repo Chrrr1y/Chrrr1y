@@ -4,8 +4,6 @@
 ## 🥱About me
 
 - Nickname: Chrrr1y
-- Hometown: Tai'an, Shandong Province in China
-- Live: Ri'zhao Shandong Province in China
 
 💪 正在学习: 
 
